@@ -4,9 +4,9 @@
 
 Every artist in this analysis had a Top 40 hit on the Billboard Hot 100. The
 songs surfaced here never charted at all — yet the listeners who found them
-replay them 6, 10, sometimes 40+ times each. This project joins 68 years of
-Billboard chart history to Last.fm listening data with SQL to find them,
-systematically.
+replay them 6, 10, sometimes 40+ times each. This project uses Python to
+collect listening data from the Last.fm API, then joins it to 68 years of
+Billboard chart history with SQL to find them, systematically.
 
 **Browse and vote on the results:**
 👉 **https://michaelnocito.github.io/music-hidden-gems-list/** — the top 500,
@@ -124,8 +124,9 @@ read-out-loud narration of each clause, and its confirmed RESULT.
 2. Database setup: [docs/SETUP.md](docs/SETUP.md) (SQLite + DB Browser,
    free, no server).
 3. Last.fm side: get a free API key
-   ([docs/GET_AN_API_KEY.md](docs/GET_AN_API_KEY.md)), run the fetch
-   scripts. Or use the committed snapshots in `data/` (July 2026).
+   ([docs/GET_AN_API_KEY.md](docs/GET_AN_API_KEY.md)), run the Python fetch
+   scripts in `scripts/` (standard library only, no installs). Or use the
+   committed snapshots in `data/` (July 2026).
 4. Work through `queries/hidden_gems.sql` step by step.
 
 ## Limitations (stated, not hidden)
