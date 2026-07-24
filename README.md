@@ -157,3 +157,8 @@ Music Hidden Gems (this repo).
 
 Built by [Michael Nocito](https://michaelnocito.github.io), data analyst.
 Free analyst learning kits: [Analyst Prep Kit](https://michaelnocito.github.io/analyst-prep-kit/).
+
+**Like the way the SQL here reads?** The teaching-comment format used throughout
+this repo is available as a prompt pack that gets any AI assistant to write in
+the same format, so the queries you work through explain themselves:
+[The SQL Teaching-Comment Prompt Pack](https://michaelnocito.gumroad.com/l/sql-prompt-pack) ($7).
