@@ -161,6 +161,7 @@ Free analyst learning kits: [Analyst Prep Kit](https://michaelnocito.github.io/a
 **Like the way the SQL here reads?** The format is written up in full here:
 [How to Comment SQL So It Teaches](https://michaelnocito.github.io/analyst-prep-kit/guides/sql-teaching-comments/)
 (the boxed WHY header, the clause-by-clause read-out-loud block, the clean query).
-It is also available as a prompt pack that gets any AI assistant to write in
-the same format, so the queries you work through explain themselves:
-[The SQL Teaching-Comment Prompt Pack](https://michaelnocito.gumroad.com/l/sql-prompt-pack) ($7).
+It is also available as an agent that gets any AI assistant to write in
+the same format, plus a scoring rubric and handoff-mode examples, so the queries
+you work through explain themselves:
+[The SQL Comment System](https://michaelnocito.gumroad.com/l/sql-comment-system) ($29).
