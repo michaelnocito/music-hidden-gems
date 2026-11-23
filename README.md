@@ -155,7 +155,7 @@ Part of a hidden-gems series:
 [Streaming Hidden Gems](https://github.com/michaelnocito/streaming-hidden-gems) ·
 Music Hidden Gems (this repo).
 
-Built by [Michael Nocito](https://michaelnocito.github.io), data analyst.
+Built by [Michael Nocito](https://michaelnocito.github.io), implementation analyst.
 Free analyst learning kits: [Analyst Prep Kit](https://michaelnocito.github.io/analyst-prep-kit/).
 
 **Like the way the SQL here reads?** The format is written up in full here:
