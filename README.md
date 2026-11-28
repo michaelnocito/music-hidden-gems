@@ -164,4 +164,4 @@ Free analyst learning kits: [Analyst Prep Kit](https://michaelnocito.github.io/a
 It is also available as an agent that gets any AI assistant to write in
 the same format, plus a scoring rubric and handoff-mode examples, so the queries
 you work through explain themselves:
-[The SQL Comment System](https://michaelnocito.gumroad.com/l/sql-comment-system) ($29).
+[The SQL Comment System](https://michaelnocito.gumroad.com/l/sql-comment-system) (free).
